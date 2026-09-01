@@ -2,13 +2,13 @@
 
 <p align="center">
   <a href="https://aryabuwa.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-aryabuwa.vercel.app-E8FF47?style=for-the-badge" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-163A2E?style=for-the-badge&logoColor=F5F3EA" alt="Portfolio">
   </a>
   <a href="https://www.linkedin.com/in/arya-buwa-329159191/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-E8FF47?style=for-the-badge" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/AryaBuwa">
-    <img src="https://img.shields.io/badge/GitHub-AryaBuwa-E8FF47?style=for-the-badge" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
 
@@ -20,5 +20,5 @@ Vanilla HTML, CSS, JS — deliberately dependency-free.
 
 ## Contents
 
-* `index.html` — the site
-* `Arya_Buwa_Resume.pdf` — resume (referenced by the Download CV button)
+- `index.html` — the site
+- `Arya_Buwa_Resume.pdf` — resume (referenced by the Download CV button)
